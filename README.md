@@ -38,7 +38,14 @@ ________________________________________________________________________________
 ### Dashboard Design:
 _____________________________________________________________________________________
 <img src = "https://github.com/aniketnayak994/Atliqo-Telecom-Data-Analysis/blob/main/Design/KPI.png" >
+<img src = "https://github.com/aniketnayak994/Atliqo-Telecom-Data-Analysis/blob/main/Design/plan.png" >
+<img src = "https://github.com/aniketnayak994/Atliqo-Telecom-Data-Analysis/blob/main/Design/market.png" >
 
+### Data Model
+_____________________________________________________________________________________
+<img src = "https://github.com/aniketnayak994/Atliqo-Telecom-Data-Analysis/blob/main/Design/DataModel.png" >
+
+### Contact
 
 Feedback are always appreciated, contact me on linkedIn: 
 <a href="https://www.linkedin.com/in/aniket-nayak-b00881194/" >Connect with me on Linkedin </a>
