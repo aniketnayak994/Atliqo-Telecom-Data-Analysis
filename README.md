@@ -1,3 +1,12 @@
+AtliQo Telecom Data Analysis - PowerBI
+___________________________________________________________________________________
+
+This project is done as part of the codebaiscs resume project challenge
+
+Challenge details - <a href="https://codebasics.io/event/codebasics-resume-project-challenge" >Connect with me on Linkedin </a>
+
+Live Dashboard - Link
+
 Problem statement
 ___________________________________________________________________________________
 
@@ -17,6 +26,7 @@ The target audience of this dashboard is top-level management - hence the dashbo
 Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 Insights:
+____________________________________________________________________________________
 
 - Revenue is decreased by 0.5 % comparison to before 5G lauch
 - Despite the revenue drop, Average revenue per user increased by 11.05 %
@@ -24,6 +34,10 @@ Insights:
 - User Un-subscribed after 5G launch increased by 23.50 %, this is an alarming sign, major users un-subscribed in Hyderabad, Pune, Jaipur, chandigarh
 - Plan wise: After 5G launch, Revenue contribution of Plan 8,9,10 becomes complete zero, Plan 1,11,12 Contribution increases
 - Market share of Atliqo remains third before and after 5G launch, not much change
+
+Dashboard Design:
+_____________________________________________________________________________________
+
 
 Feedback are always appreciated, contact me on linkedIn: 
 <a href="https://www.linkedin.com/in/aniket-nayak-b00881194/" >Connect with me on Linkedin </a>
