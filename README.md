@@ -37,8 +37,7 @@ ________________________________________________________________________________
 
 ### Dashboard Design:
 _____________________________________________________________________________________
-<a href="https://github.com/aniketnayak994/Atliqo-Telecom-Data-Analysis/blob/main/1_Telecom_dashboard_AniketNayak.pdf" > link </a>
-https://github.com/aniketnayak994/Atliqo-Telecom-Data-Analysis/blob/main/1_Telecom_dashboard_AniketNayak.pdf
+<img src = "https://github.com/aniketnayak994/Atliqo-Telecom-Data-Analysis/blob/main/Design/KPI.png" >
 
 
 Feedback are always appreciated, contact me on linkedIn: 
