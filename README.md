@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 ### Contact
 
-Feedback are always appreciated, contact me on linkedIn: 
+Feedback is always appreciated, contact me on linkedIn: 
 <a href="https://www.linkedin.com/in/aniket-nayak-b00881194/" >Connect with me on Linkedin </a>
 
 Images & Icons: 
